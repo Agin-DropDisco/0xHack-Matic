@@ -4,8 +4,10 @@
 
 ### A Governance-enabled Market Maker with Adjustable Fees
 
+### Frontend Demo || In Progress || Will be Live Soon
 
-All Contract Files :
+### All Related Contract Files :
+
 - [DexSwap Core](https://github.com/Agin-DropDisco/dexswap-core)
 - [DexSwap Periphery](https://github.com/Agin-DropDisco/dexswap-periphery)
 - [DexSwap Registry](https://github.com/Agin-DropDisco/dexswap-registry)
@@ -68,10 +70,12 @@ All Contract Files :
 
 
 ### Helper Repo For Deploying all Contract to MATIC MUMBAI TESTNET 
+
 ==> [DexSwap Stagger Deploy](https://github.com/Agin-DropDisco/dexswap-stagger-deploy)
 
-### Frontend Demo || On Progress || Will be Live Soon
+==> [DexSwap Token Registry Code](https://github.com/Agin-DropDisco/dexswap-registry) 
 
-- Note:: For the Token Registry Parameters Chek > [This Link](https://github.com/Agin-DropDisco/dexswap-registry) 
+
+
 
 
