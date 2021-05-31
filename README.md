@@ -68,7 +68,7 @@
 - [DexSwap Token Registry](https://explorer-mumbai.maticvigil.com/address/0x52d2026723cd76E1Feae2719aa6F56aBe585030E/transactions)
 
 
-### Helper Repo For Deploying all Contract to MATIC MUMBAI TESTNET 
+### Helper Repo For Deploying All Contract to MATIC MUMBAI 
 
 ==> [DexSwap Stagger Deploy](https://github.com/Agin-DropDisco/dexswap-stagger-deploy)
 
