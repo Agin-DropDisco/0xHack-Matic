@@ -1,10 +1,9 @@
 # 0xHack-Matic
 
-# DexSwap - AMM || Staking
+# DexSwap 
 
+A Governance-enabled Market Maker with Adjustable Fees
 
-A helper repo that can be used to deploy DexSwap  || related to all contracts
-(core/periphery/registry/staking/..) to any given EVM-compatible network.
 
 All Contract Files :
 - [DexSwap Core](https://github.com/Agin-DropDisco/dexswap-core)
