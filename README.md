@@ -1,10 +1,9 @@
 #### 0xHack-Matic
 
 # DexSwap 
+A Governance-enabled Market Maker with Adjustable Fees
 
-### A Governance-enabled Market Maker with Adjustable Fees
-
-### Frontend Demo || In Progress || Will be Live Soon
+##### Frontend Demo || In Progress || Will be Live Soon
 
 ### All Related Contract Files :
 
