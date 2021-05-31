@@ -16,36 +16,8 @@ All Contract Files :
 ### Helper Repo For Deploying all Contract to MATIC MUMBAI TESTNET 
 ==> [DexSwap Stagger Deploy](https://github.com/Agin-DropDisco/dexswap-stagger-deploy)
 
+### Frontend Demo || On Progress || Will be Live Soon
 
-## Getting started
-
-```
-yarn
-```
-
-in the project's root, and create a `.env` file with the following structure:
-
-```
-PRIVATE_KEY="a private key"
-```
-
-This private key will be used to derive the account that will perform the
-deployment, and that will ultimately be the owner of the platform's contracts.
-
-## How to use
-
-To actually trigger a deployiment, simply run:
-
-```
-yarn deploy
-```
-- See All the Task Parameters to deploying to the Chain
-
-- Example Parameter : 
-```
-yarn deploy --network rinkeby --token-registry-address <myAddress from dexswap registry>
-```
-
-- For the Token Registry Parameters Chek > [This Link](https://github.com/Agin-DropDisco/dexswap-registry) 
+- Note:: For the Token Registry Parameters Chek > [This Link](https://github.com/Agin-DropDisco/dexswap-registry) 
 
 
