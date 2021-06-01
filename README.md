@@ -15,7 +15,7 @@
 - [DexSwap Staging Deployer](https://github.com/Agin-DropDisco/dexswap-swapper-staging)
 - [DexSwap SDK ](#)
 - [DexSwap Interface ](#)
-- [DexSwap Stake](https://github.com/Agin-DropDisco/dexswap-core/tree/1.1.0/migrations)
+
 
 ### All Contract Deployed Address in MATIC MUMBAI: 
 
